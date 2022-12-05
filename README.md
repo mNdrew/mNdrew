@@ -2,10 +2,12 @@
 
 I am an undergraduate student from the Philippines aspiring to work in fields of Data Science and Cybersecurity.
 
+## Description
 - 📌 Location: Manila, Philippines
 - 🏫 School: De La Salle University - Dasmariñas 
-- 🌱 Learning: BS Information Technology - Network Technology Track
-- 
+- 🌱 Course: BS Information Technology - Network Technology Track
+
+<center> Additional Learning </center>
 
 <!--
 - 🔭 I’m currently working on ...
