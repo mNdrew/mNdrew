@@ -15,7 +15,7 @@ I am an undergraduate student from the Philippines aspiring to work in fields of
 ### Google Project Management
 |Course|Status|Certificate|
 |---|---|---|
-|Foundations of Project Management|`🟢 Complete`|![https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white](https://coursera.org/share/0c5d0d5d37e29745ba7f388ef8230646)|
+|Foundations of Project Management|`🟢 Complete`|[![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://coursera.org/share/0c5d0d5d37e29745ba7f388ef8230646)|
 |Project Initiation: Starting a Successful Project|`🟢 Complete`|![https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white](https://coursera.org/share/bc3b625ad3469fe2c52a91062d762cf8)|
 |Project Planning: Putting It All Together|🟡|-|
 |Project Execution: Running the Project|⚪|-|
