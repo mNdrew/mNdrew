@@ -1,13 +1,21 @@
-### 👋 Hello! My name is Miguel.
+# 👋 Hello! My name is Miguel.
 
 I am an undergraduate student from the Philippines aspiring to work in fields of Data Science and Cybersecurity.
 
-## Description
+## ✋ My Info 
 - 📌 Location: Manila, Philippines
 - 🏫 School: De La Salle University - Dasmariñas 
 - 🌱 Course: BS Information Technology - Network Technology Track
+- ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
 
-<center> Additional Learning </center>
+## Additional Learnings
+### Google Project Management
+|Course|Status|Certificate|
+|---|||
+|Foundations of Project Management|`🟢 Completed`|[Link to Certificate](https://coursera.org/share/0c5d0d5d37e29745ba7f388ef8230646)|
+
+### Google IT Support
+
 
 <!--
 - 🔭 I’m currently working on ...
