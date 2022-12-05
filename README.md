@@ -1,10 +1,13 @@
-### Hi there 👋
+### 👋 Hello! My name is Miguel.
+
+I am an undergraduate student from the Philippines aspiring to work in fields of Data Science and Cybersecurity.
+
+- 📌 Location: Manila, Philippines
+- 🏫 School: De La Salle University - Dasmariñas 
+- 🌱 Learning: BS Information Technology - Network Technology Track
+- 
 
 <!--
-**mNdrew/Mndrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
