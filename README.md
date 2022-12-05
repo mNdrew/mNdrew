@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Miguel.
+# 👋 Hello, My name is Miguel!
 ---
 I am an undergraduate student from the Philippines aspiring to work in fields of Data Science and Cybersecurity.
 
@@ -9,12 +9,12 @@ I am an undergraduate student from the Philippines aspiring to work in fields of
 - ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
 
 ## Socials
-- ![](https://img.shields.io/badge/Google%20cloud%20skillsboost-FF9800?style=for-the-badge&logo=google-cloud&logoColor=white)
-- <a href="https://www.linkedin.com/in/miguel-andrew-cayetano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- <a href="https://www.cloudskillsboost.google/public_profiles/ab662607-e5fc-475d-9629-36ed9cbc253f" target="_blank" rel="noopener noreferrer">![](https://img.shields.io/badge/Google%20cloud%20skillsboost-FF9800?style=for-the-badge&logo=google-cloud&logoColor=white)</a>
+- <a href="https://www.linkedin.com/in/miguel-andrew-cayetano/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## 🔍 Additional Learning
-
-### 📃 Google Project Management
+# 🔍 Additional Learning
+---
+## 📃 Google Project Management
 
 | Course  |     Status      |   Certificate   |
 | ---- |:---:|:---:|
@@ -25,24 +25,12 @@ I am an undergraduate student from the Philippines aspiring to work in fields of
 | Agile Project Management| ![](https://img.shields.io/badge/-Not%20Started-grey) |      ![](https://img.shields.io/badge/-Unavailable-inactive)    |
 | Capstone: Applying Project Management in the Real World | ![](https://img.shields.io/badge/-Not%20Started-grey) |      ![](https://img.shields.io/badge/-Unavailable-inactive)    |
 
-### 🆘 Google IT Support
+## 🆘 Google IT Support
 
-| Course|         Status          |   Certificate   |
+|Course|Status|Certificate|
 | --- |:----:|:---:|
-| Technical Support Fundamentals   | ![](https://img.shields.io/badge/-Complete-brightgreen) | <a href="https://coursera.org/share/14f9a5c278eccd68de9323992eef72f5" target="_blank" rel="noopener noreferrer">![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a> |
-| The Bits and Bytes of Computer Networking        |    ![](https://img.shields.io/badge/-Ongoing-yellow)    |        ![](https://img.shields.io/badge/-Unavailable-inactive)        |
-| Operating Systems and You: Becoming a Power User |    ![](https://img.shields.io/badge/-Ongoing-yellow)    |        ![](https://img.shields.io/badge/-Unavailable-inactive)        |
-| Project Execution: Running the Project|  ![](https://img.shields.io/badge/-Not%20Started-grey)  |        ![](https://img.shields.io/badge/-Unavailable-inactive)        |
-| Agile Project Management         |  ![](https://img.shields.io/badge/-Not%20Started-grey)  |        ![](https://img.shields.io/badge/-Unavailable-inactive)        | 
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Technical Support Fundamentals|![](https://img.shields.io/badge/-Complete-brightgreen) | <a href="https://coursera.org/share/14f9a5c278eccd68de9323992eef72f5" target="_blank" rel="noopener noreferrer">![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a> |
+|The Bits and Bytes of Computer Networking|![](https://img.shields.io/badge/-Ongoing-yellow)|![](https://img.shields.io/badge/-Unavailable-inactive)|
+|Operating Systems and You: Becoming a Power User|![](https://img.shields.io/badge/-Ongoing-yellow)|![](https://img.shields.io/badge/-Unavailable-inactive)|
+|Project Execution: Running the Project|![](https://img.shields.io/badge/-Not%20Started-grey)|![](https://img.shields.io/badge/-Unavailable-inactive)|
+|Agile Project Management|![](https://img.shields.io/badge/-Not%20Started-grey)|![](https://img.shields.io/badge/-Unavailable-inactive)| 
