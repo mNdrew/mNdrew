@@ -2,6 +2,7 @@
 
 I am an undergraduate student from the Philippines aspiring to work in fields of Data Science and Cybersecurity.
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/miguel-andrew-cayetano/">
 ## ✋ My Info 
 - 📌 Location: Manila, Philippines
 - 🏫 School: De La Salle University - Dasmariñas 
