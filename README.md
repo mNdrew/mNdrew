@@ -7,12 +7,19 @@ I am an undergraduate student from the Philippines aspiring to work in fields of
 - 🏫 School: De La Salle University - Dasmariñas 
 - 🌱 Course: BS Information Technology - Network Technology Track
 - ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
+- ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-## Additional Learnings
+## Additional Learning
 ### Google Project Management
 |Course|Status|Certificate|
-|---|||
-|Foundations of Project Management|`🟢 Completed`|[Link to Certificate](https://coursera.org/share/0c5d0d5d37e29745ba7f388ef8230646)|
+|---|---|---|
+|Foundations of Project Management|`🟢 Complete`|[Link to Certificate](https://coursera.org/share/0c5d0d5d37e29745ba7f388ef8230646)|
+|Project Initiation: Starting a Successful Project|`🟢 Complete`|[Link to Certificate](https://coursera.org/share/bc3b625ad3469fe2c52a91062d762cf8)|
+|Project Planning: Putting It All Together|🟡|-|
+|Project Execution: Running the Project|⚪|-|
+|Agile Project Management|⚪|-|
+|Capstone: Applying Project Management in the Real World|⚪|-|
+
 
 ### Google IT Support
 
