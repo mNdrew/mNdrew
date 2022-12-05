@@ -7,10 +7,15 @@ I am an undergraduate student from the Philippines aspiring to work in fields of
 - 🏫 School: De La Salle University - Dasmariñas 
 - 🌱 Course: BS Information Technology - Network Technology Track
 - ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
-- Connect with me on <a href="https://www.linkedin.com/in/miguel-andrew-cayetano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## Additional Learning
-### Google Project Management
+## Socials
+- ![](https://img.shields.io/badge/Google%20cloud%20skillsboost-FF9800?style=for-the-badge&logo=google-cloud&logoColor=white)
+- <a href="https://www.linkedin.com/in/miguel-andrew-cayetano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+## 🔍 Additional Learning
+
+### 📃 Google Project Management
+
 | Course  |     Status      |   Certificate   |
 | ---- |:---:|:---:|
 | Foundations of Project Management       |  ![](https://img.shields.io/badge/-Complete-brightgreen)  | <a href="https://coursera.org/share/0c5d0d5d37e29745ba7f388ef8230646" target="_blank" rel="noopener noreferrer">![Coursera Badge](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a> |
@@ -20,7 +25,7 @@ I am an undergraduate student from the Philippines aspiring to work in fields of
 | Agile Project Management| ![](https://img.shields.io/badge/-Not%20Started-grey) |      ![](https://img.shields.io/badge/-Unavailable-inactive)    |
 | Capstone: Applying Project Management in the Real World | ![](https://img.shields.io/badge/-Not%20Started-grey) |      ![](https://img.shields.io/badge/-Unavailable-inactive)    |
 
-Google IT Support
+### 🆘 Google IT Support
 
 | Course|         Status          |   Certificate   |
 | --- |:----:|:---:|
