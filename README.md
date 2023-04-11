@@ -1,6 +1,6 @@
 # 👋 Hello, My name is Miguel!
 ---
-I am an undergraduate student from the Philippines aspiring to work in Data Science and Cybersecurity.
+I am an undergraduate student from the Philippines aspiring to work in Cybersecurity and Networking.
 
 ## ✋ My Info 
 - 📌 Location: Manila, Philippines
