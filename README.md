@@ -5,7 +5,7 @@ I am an undergraduate student from the Philippines aspiring in Cybersecurity, Da
 ## ✋ My Info 
 - 📌 Location: Manila, Philippines
 - 🏫 School: De La Salle University - Dasmariñas
-- 🧑‍🤝‍🧑 Founder, Executive Director for <a href="https://wwwfacebook.com/LasallianCodeSpace">](https://fb.com/LasallianCodeSpaceDLSUD)
+- 🧑‍🤝‍🧑 Founder, Executive Director for <a href="https://wwwfacebook.com/LasallianCodeSpace">https://fb.com/LasallianCodeSpaceDLSUD</a>
 - 🌱 Course: BS Information Technology - Network Technology Track
 - ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
 
