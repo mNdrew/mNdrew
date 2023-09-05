@@ -9,7 +9,9 @@ I am an undergraduate student from the Philippines aspiring in Cybersecurity, Da
 - ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
 
 ## Organizations and Projects
-- 🧑‍🤝‍🧑 Founder, Executive Director for [<a href="https://wwwfacebook.com/LasallianCodeSpace" style="color: white">](https://www.facebook.com/LasallianCodeSpaceDLSUD)
+- 🧑‍🤝‍🧑 Founder, Executive Director for Lasallian CodeSpace
+  - [Facebook Page](https://www.facebook.com/LasallianCodeSpaceDLSUD)
+  - [GitHub Organization Profile](https://github.com/Lasallian-CodeSpace)  
 
 
 ## Socials and Badges
