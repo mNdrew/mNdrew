@@ -2,7 +2,7 @@
 
 ---
 
-I am an undergraduate student from the Philippines aspiring in Cybersecurity, Data Science, and Project Management fields.
+I am an undergraduate student from the Philippines aspiring to have a career in Cybersecurity, Data Science, and Project Management fields.
 
 ---
 
