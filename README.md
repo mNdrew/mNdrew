@@ -22,6 +22,7 @@ I am an undergraduate student from the Philippines aspiring to have a career in 
   - <a href="https://github.com/Lasallian-CodeSpace" target="_blank">GitHub Organization Page</a>
   - <a href="https://www.youtube.com/channel/klookari" target="_blank">YouTube Channel</a>
 
+![](/InfoSessions-0Banner.png)
 ---
 
 ## Socials and Badges
