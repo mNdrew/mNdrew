@@ -20,6 +20,7 @@ I am an undergraduate student from the Philippines aspiring to have a career in 
 - 🧑‍🤝‍🧑 Founder, Executive Director for Lasallian CodeSpace
   - <a href="https://www.facebook.com/LasallianCodeSpaceDLSUD" target="_blank">Facebook Page</a>
   - <a href="https://github.com/Lasallian-CodeSpace" target="_blank">GitHub Organization Page</a>
+  - <a href="https://www.youtube.com/channel/klookari" target="_blank">YouTube Channel</a>
 
 ---
 
