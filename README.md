@@ -1,5 +1,5 @@
 # 👋 Hello, My name is Miguel!
-
+<!-- NEW VERSION -->
 ---
 
 I am an undergraduate student from the Philippines aspiring to have a career in Cybersecurity, Data Science, and Project Management fields.
@@ -10,8 +10,9 @@ I am an undergraduate student from the Philippines aspiring to have a career in 
 
 - 📌 Location: Manila, Philippines
 - 🏫 School: De La Salle University - Dasmariñas
-- 🌱 Course: BS Information Technology - Network Technology Track
+- 🌱 Course: BS Information Technology - Web Development
 - ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
+- 🏢 Internship: Company X
 
 ---
 
