@@ -11,7 +11,9 @@ I am an undergraduate student from the Philippines aspiring to have a career in 
 - 📌 Location: Manila, Philippines
 - 🏫 School: De La Salle University - Dasmariñas
 - 🌱 Course: BS Information Technology - Network Technology Track
-- ✍ Scholarship: DOST-SEI Merit Scholarship (Batch 2020)
+- ✍ Scholarship
+  - DOST-SEI Merit Scholarship (Batch 2020)
+  - LSEG Students Affiliate Program
 
 ---
 
