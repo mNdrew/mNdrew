@@ -19,7 +19,7 @@ I aspire to have a career in Cybersecurity, Data Science, and Project Management
 
 ## Organizations and Projects
 
-- 🧑‍🤝‍🧑 Founder, Executive Director for Lasallian CodeSpace
+- 🧑‍🤝‍🧑 Founder, Executive Director for Lasallian CodeSpace (2023 - 2024)
   - <a href="https://www.facebook.com/LasallianCodeSpaceDLSUD" target="_blank">Facebook Page</a>
   - <a href="https://github.com/Lasallian-CodeSpace" target="_blank">GitHub Organization Page</a>
 
