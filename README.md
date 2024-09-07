@@ -1,8 +1,8 @@
 # 👋 Hello, My name is Miguel!
 
 ---
-
-I am an undergraduate student from the Philippines aspiring to have a career in Cybersecurity, Data Science, and Project Management fields.
+I just graduated Summa Cum Laude from De La Salle University - Dasmariñas. 
+I aspire to have a career in Cybersecurity, Data Science, and Project Management fields.
 
 ---
 
